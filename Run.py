@@ -1,12 +1,12 @@
 
 """
 Created on January 2020
-@author: carlopasquinucci : carlo.a.pasquinucci@gmail.com
+@author: carlopasquinucci : carlo.a.pasquinucci (at) gmail.com
 """
 
 """
 Instruction:
-1)Fill the data in Initial_Data.data
+1)Fill the data in Initial_Data.dat
 2)Run Run.py
 3)Read the results on Results.dat
 """
