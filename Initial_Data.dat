@@ -1,0 +1,24 @@
+
+"""
+Created on January 2020
+@author: carlopasquinucci : carlo.a.pasquinucci@gmail.com
+"""
+
+"""
+Instruction:
+Fill with the correct data, without any space and any unity of measure. Use point as decimal separator.
+Ex: 
+Velocity=
+3.5
+"""
+
+Velocity =
+20
+#Velocity in m/s
+
+Turbulence Level =
+0.05
+# 0.01 0.03 0.05
+
+Turbulent Length Scale =
+0.310
