@@ -1,6 +1,5 @@
 # k-epsilon-omega-python
-Off line calculator of k omega and epsilon
-
+Off-line calculator of k omega and epsilon
 ## Content  
 In this repository you can find an offline calculator for k omega and epsilon values for turbulent CFD simulations.
 
@@ -21,6 +20,9 @@ from an input data file and write:
 3_ Specific tubulence dissipation (omega) [1/s]
 
 in an output file.
+
+For a similar code in which the input data are given directly from the terminal, feel free to use this:
+
 
 ## Explanation ready - Support
 The code is written in a very simple way, in order to be easily understood, but if you need other explanation, feel free to contact me:
