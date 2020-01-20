@@ -8,7 +8,7 @@ In this repository you can find a simple Python code that read
 
 1_ Velocity
 
-2_ Turbulence lengtt scale
+2_ Turbulence length scale
 
 3_ Turbulence intensity
 
